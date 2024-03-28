@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angil Neupane</h1>
 <h3 align="center">A passionate automation QA / QC from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angiln" alt="angiln" /></a> </p>
-
 - 🌱 I’m currently learning **Appium, Jmeter**
 
 - 💬 Ask me about **Selenium , Java , Automation Testing**
