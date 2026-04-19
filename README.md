@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **Automation Test ( Selenium & Java )**
 
-- 🌱 I’m currently learning **Appium, Jmeter**
-
-- 🤝 I’m looking for help with **Appium**
+- 🌱 I’m planning to  learning **Appium
 
 - 📝 I regularly write articles on [angilneupane.com.np](angilneupane.com.np)
 
