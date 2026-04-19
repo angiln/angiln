@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angiln&label=Profile%20views&color=0e75b6&style=flat" alt="angiln" /> </p>
 
-- 🔭 I’m currently working on **Automation Test ( Selenium & Java )**
+- 🔭 I’m currently working on my skills.
 
 - 🌱 I’m planning to  learning **Appium
 
-- 📝 I regularly write articles on [angilneupane.com.np](angilneupane.com.np)
-
 - 💬 Ask me about **Selenium , Java , Automation Testing**
 
-- 📫 How to reach me **angilneupane0118@gmail.com**
+- 📫 Reach me at **angilneupane0118@gmail.com**
 
-- 📄 Know about my experiences [angil-neupane-455431202](angil-neupane-455431202)
+- Interested in playing classical instrument Sitar.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
