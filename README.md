@@ -11,7 +11,8 @@
 
 - 📫 Reach me at **angilneupane0118@gmail.com**
 
-- Interested in playing classical instrument Sitar.
+- 💻 Beyond testing, I find peace in the strings of the sitar whenever I have free time.<img width="103" height="113" alt="image" src="https://github.com/user-attachments/assets/ed24af6b-454f-4be2-849f-8b57612b8e07" />
+ 🎶
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
