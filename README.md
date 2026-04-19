@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **angilneupane0118@gmail.com**
 
-- 💻 Beyond testing, I find peace in the strings of the sitar whenever I have free time.<img width="40" height="23" alt="image" src="https://github.com/user-attachments/assets/ed24af6b-454f-4be2-849f-8b57612b8e07" />
+- 💻 Beyond testing, I find peace in the strings of the sitar whenever I have free time.<img width="50" height="63" alt="image" src="https://github.com/user-attachments/assets/ed24af6b-454f-4be2-849f-8b57612b8e07" />
  🎶
 
 <h3 align="left">Connect with me:</h3>
