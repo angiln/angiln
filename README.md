@@ -1,64 +1,89 @@
-# Hi there, I'm Angil Neupane 👋
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=angiln&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" align="right"/>
+<h1>Hi there, I'm Angil Neupane 👋</h1>
+<img src="https://komarev.com/ghpvc/?username=angiln&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-QA Automation Engineer from Kathmandu, Nepal 🇳🇵
+<h3>QA Automation Engineer from Kathmandu, Nepal 🇳🇵</h3>
+
+</div>
 
 ---
 
 ## About Me
 
-- 🔭 Currently improving my **Automation Testing & API Testing** skills
-- 🌱 Learning **Appium & Advanced Selenium Framework**
-- 💬 Ask me about **Selenium, Java, TestNG, API Testing**
-- 🎶 I play **Sitar** in my free time
-- 📫 Reach me at **angilneupane0118@gmail.com**
+- 🔭 Currently improving my Automation Testing & API Testing skills
+- 🌱 Learning Appium & Advanced Selenium Framework
+- 💬 Ask me about Selenium, Java, TestNG, API Testing
+- 📫 Reach me at [angilneupane0118@gmail.com](mailto:angilneupane0118@gmail.com)
 
 ---
 
 ## 🛠️ Skills
 
-| Category | Technologies |
-|----------|-------------|
-| 💻 **Languages** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🤖 **Automation** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square&logo=testng&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white) |
-| 🔌 **API Testing** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| ⚡ **Performance** | ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white) |
-| 🗄️ **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| 🧰 **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
-| 📋 **QA Skills** | ![Functional](https://img.shields.io/badge/Functional%20Testing-2E86AB?style=flat-square) ![Regression](https://img.shields.io/badge/Regression-A23B72?style=flat-square) ![Bug%20Tracking](https://img.shields.io/badge/Bug%20Tracking-E84855?style=flat-square) ![POM](https://img.shields.io/badge/POM%20Framework-57CC99?style=flat-square) |
-| 🌱 **Learning** | ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white) ![Advanced Selenium](https://img.shields.io/badge/Advanced%20Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
+<div align="center">
+
+### 💻 Languages
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+
+### 🤖 Automation
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/Appium-47E8CD?style=flat&logo=Appium&logoColor=white" alt="Appium" />
+<img src="https://img.shields.io/badge/TestNG-E40E2B?style=flat&logo=TestNG&logoColor=white" alt="TestNG" />
+
+### 🔌 API Testing
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/RestAssured-6DB33F?style=flat&logo=restassured&logoColor=white" alt="RestAssured" />
+
+### ⚡ Performance
+<img src="https://img.shields.io/badge/JMeter-F8B700?style=flat&logo=apachejmeter&logoColor=black" alt="JMeter" />
+
+### 🗄️ Database
+<img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+### 🧰 Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
+
+### 📋 QA Skills
+<img src="https://img.shields.io/badge/Manual_Testing-8A2BE2?style=flat" alt="Manual Testing" />
+<img src="https://img.shields.io/badge/Automation_Testing-0e75b6?style=flat" alt="Automation Testing" />
+<img src="https://img.shields.io/badge/API_Testing-ff6c37?style=flat" alt="API Testing" />
+<img src="https://img.shields.io/badge/CI%2FCD-1f425f?style=flat" alt="CI/CD" />
+
+### 🌱 Learning
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white" alt="Cucumber" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Advanced_Selenium-0e75b6?style=flat" alt="Advanced Selenium" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angiln&show_icons=true&theme=default" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angiln" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angiln&layout=compact" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=angiln&show_icons=true&theme=default" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=angiln" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=angiln&layout=compact" height="180" />
 
-## 🎮 Hobbies
-
-![Biking](https://img.shields.io/badge/🏍️%20Biking-Royal%20Enfield-black?style=for-the-badge)
-![Sitar](https://img.shields.io/badge/🎶%20Sitar-Classical%20Music-orange?style=for-the-badge)
-![Music](https://img.shields.io/badge/🎵%20Music-Listener-blueviolet?style=for-the-badge)
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angil-neupane-455431202)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/an_gil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angilneupane0118@gmail.com)
+<div align="center">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+
+</div>
 
 ---
 
-*"Debug the code. Tune the strings. Repeat."* 🎶
+> "Debug the code. Tune the strings. Repeat." 🎶
