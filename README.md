@@ -1,89 +1,75 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Angil , Angil Neupane</h1>
+<h3 align="center">An Quality Assurance Engineer and Automation Tester</h3>
 
-<h1>Hi there, I'm Angil Neupane 👋</h1>
-<img src="https://komarev.com/ghpvc/?username=angiln&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=angiln&label=Profile%20views&color=0e75b6&style=flat" alt="angiln" />
+</p>
 
-<h3>QA Automation Engineer from Kathmandu, Nepal 🇳🇵</h3>
+- 🔭 I’m currently working on **Automation Test ( Selenium & Java )**
+- 🌱 I’m currently learning **Appium, JMeter**
+- 🤝 I’m looking for help with **Appium**
+- 📝 I regularly write articles on [angilneupane.com.np](https://angilneupane.com.np)
+- 💬 Ask me about **Selenium, Java, Automation Testing**
+- 📫 How to reach me **angilneupane0118@gmail.com**
+- 📄 Know about my experiences [angil-neupane-455431202](https://www.linkedin.com/in/angil-neupane-455431202)
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/angil-neupane-455431202" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angil-neupane-455431202" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/an_gil" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="an_gil" height="30" width="40" />
+  </a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
+  </a>
+  <a href="https://testng.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="testng" width="40" height="40" />
+  </a>
+  <a href="https://junit.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="junit" width="40" height="40" />
+  </a>
+  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="jmeter" width="40" height="40" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-plain.svg" alt="ms excel" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="insomnia" width="40" height="40" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman api" width="40" height="40" />
+  </a>
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" alt="restful api" width="40" height="40" />
+  </a>
+  <a href="https://allurereport.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="allure report" width="40" height="40" />
+  </a>
+  <a href="https://maven.apache.org/surefire/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="surefire report" width="40" height="40" />
+  </a>
+  <a href="https://testrail.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="testrail" width="40" height="40" />
+  </a>
+</p>
 
-## About Me
+<p><strong>Testing Skills:</strong> Test Case Design, Test Execution, Defect Reporting, Regression Testing, Smoke Testing, Functional Testing</p>
 
-- 🔭 Currently improving my Automation Testing & API Testing skills
-- 🌱 Learning Appium & Advanced Selenium Framework
-- 💬 Ask me about Selenium, Java, TestNG, API Testing
-- 📫 Reach me at [angilneupane0118@gmail.com](mailto:angilneupane0118@gmail.com)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angiln&show_icons=true&locale=en&layout=compact" alt="angiln" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angiln&show_icons=true&locale=en" alt="angiln" /></p>
 
-## 🛠️ Skills
-
-<div align="center">
-
-### 💻 Languages
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-
-### 🤖 Automation
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" alt="Selenium" />
-<img src="https://img.shields.io/badge/Appium-47E8CD?style=flat&logo=Appium&logoColor=white" alt="Appium" />
-<img src="https://img.shields.io/badge/TestNG-E40E2B?style=flat&logo=TestNG&logoColor=white" alt="TestNG" />
-
-### 🔌 API Testing
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/RestAssured-6DB33F?style=flat&logo=restassured&logoColor=white" alt="RestAssured" />
-
-### ⚡ Performance
-<img src="https://img.shields.io/badge/JMeter-F8B700?style=flat&logo=apachejmeter&logoColor=black" alt="JMeter" />
-
-### 🗄️ Database
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-
-### 🧰 Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
-
-### 📋 QA Skills
-<img src="https://img.shields.io/badge/Manual_Testing-8A2BE2?style=flat" alt="Manual Testing" />
-<img src="https://img.shields.io/badge/Automation_Testing-0e75b6?style=flat" alt="Automation Testing" />
-<img src="https://img.shields.io/badge/API_Testing-ff6c37?style=flat" alt="API Testing" />
-<img src="https://img.shields.io/badge/CI%2FCD-1f425f?style=flat" alt="CI/CD" />
-
-### 🌱 Learning
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white" alt="Cucumber" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
-<img src="https://img.shields.io/badge/Advanced_Selenium-0e75b6?style=flat" alt="Advanced Selenium" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=angiln&show_icons=true&theme=default" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=angiln" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=angiln&layout=compact" height="180" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-
-</div>
-
----
-
-> "Debug the code. Tune the strings. Repeat." 🎶
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angiln&" alt="angiln" /></p>
