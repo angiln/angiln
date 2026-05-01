@@ -1,122 +1,108 @@
 <h1 align="center">Hi 👋, I'm Angil Neupane</h1>
-<h3 align="center">A Quality Assurance Engineer and Automation Tester</h3>
+<h3 align="center">A passionate Full Stack Automation Tester ( QA / QC )</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=angiln&label=Profile%20views&color=0e75b6&style=flat" alt="angiln" /> </p>
+
+- 🔭 I’m currently working on **Advance Selenium and Appium**
+
+- 🌱 I’m currently learning **Selenium , Appium**
+
+- 🤝 I’m looking for help with **Appium , PYTEST**
+
+- 💬 Ask me about **Automation Testing with JAVA , Selenium , API Testing Postman , Report Generation , Bug Tracking**
+
+- 📫 How to reach me **angilneupane0118@gmail.com**
+
+- ⚡ Fun fact **I can sit silent for long and call it quality time .**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=angiln&label=Profile%20views&color=0e75b6&style=flat" alt="angiln" />
-</p>
-
----
-
-### 🛠️ What I’m working on
-
-- 🔭 I am currently working on **Advanced Selenium BDD**.
-- 🌱 I’m currently learning **Appium, JMeter**.
-- 🤝 I’m looking for help with **Appium**.
-- 💬 Ask me about **Selenium, Java, Automation Testing**.
-- 📫 How to reach me: **angilneupane0118@gmail.com**.
-- 📄 Know more about my experience:  
-  [angil-neupane-455431202](https://www.linkedin.com/in/angil-neupane-455431202)
-
----
-
-### 🤝 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/angil-neupane-455431202" target="_blank">
+  <a href="https://linkedin.com/in/angil-neupane-455431202/" target="blank">
     <img
-      src="https://cdn.simpleicons.org/linkedin"
-      alt="LinkedIn"
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="angil-neupane-455431202/"
       height="30"
-      width="30"
+      width="40"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/an_gil" target="_blank">
+  &nbsp;
+  <a href="https://instagram.com/_an_gil" target="blank">
     <img
-      src="https://cdn.simpleicons.org/instagram"
-      alt="Instagram"
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_an_gil"
       height="30"
-      width="30"
+      width="40"
     />
   </a>
 </p>
 
----
-
-### 🧰 Languages and Tools
-
-<div align="left">
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/java" alt="java" width="40" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/selenium" alt="selenium" width="40" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://testng.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/testng" alt="testng" width="40" height="40" />
-</a>
-
-<br />
-
-<a href="https://junit.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/junit5" alt="junit" width="40" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/apachejmeter" alt="jmeter" width="40" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/microsoftexcel" alt="ms excel" width="40" height="40" />
-</a>
-
-<br />
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/mysql" alt="mysql" width="40" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/insomnia" alt="insomnia" width="40" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/postman" alt="postman api" width="40" height="40" />
-</a>
-
-<br />
-
-<a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/apiary" alt="restful api" width="40" height="40" />
-</a>
-&nbsp;&nbsp;
-</div>
-
----
-
-### 📊 GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+  &nbsp;
+  <!-- Excel (if you want it here) -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-plain.svg" alt="excel" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+  </a>
+</p>
 
 <p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=angiln&show_icons=true&locale=en&layout=compact"
-    alt="angiln top languages"
-  />&nbsp;
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=angiln&show_icons=true&locale=en"
-    alt="angiln stats"
+    alt="angiln"
   />
 </p>
 
-<p align="center">
+<p>
+  &nbsp;
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=angiln"
-    alt="angiln streak"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=angiln&show_icons=true&locale=en"
+    alt="angiln"
+  />
+</p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=angiln&"
+    alt="angiln"
   />
 </p>
