@@ -1,88 +1,124 @@
-<h1 align="center">Hi 👋, I'm Angil Neupane</h1>
-<h3 align="center">QA Automation Tester | SDET Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=angiln&label=Profile%20Views&color=0e75b6&style=flat" alt="angiln" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Angil%20Neupane&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Bug%20Slayer%20%7C%20Sitar%20Player&descAlignY=58&descSize=18&animation=fadeIn" />
 
----
+<img src="https://komarev.com/ghpvc/?username=angiln&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="Profile Views" />
 
-## 🚀 About Me
-- 🔭 I’m currently working on improving my **Automation Testing & API Testing skills**
-- 🌱 Currently learning **Appium & Advanced Selenium Framework Design**
-- 💬 Ask me about **Selenium, Java, TestNG, API Testing, Automation Frameworks**
-- 📫 Reach me at **angilneupane0118@gmail.com**
-- 🎶 Beyond testing, I find peace in playing the **sitar** in my free time
+</div>
 
 ---
 
-## 🧠 Skills & Expertise
+<div align="center">
 
-### 🔹 Programming Languages
-- Java  
-- Python  
+### *"Quality is never an accident; it is always the result of intelligent effort."*
+*— John Ruskin*
 
-### 🔹 Automation Testing
-- Selenium WebDriver  
-- TestNG  
-- JUnit  
-- Page Object Model (POM) Framework  
-- Hybrid Framework Design  
+</div>
 
-### 🔹 API Testing
-- Postman  
-- REST API Testing  
-- API Automation Basics  
+---
 
-### 🔹 Performance Testing
-- JMeter  
+## 🧑‍💻 About Me
 
-### 🔹 QA Skills
-- Test Case Design & Management  
-- Bug Tracking & Reporting  
-- Functional Testing  
-- Regression Testing  
-- Smoke & Sanity Testing  
+```yaml
+name: Angil Neupane
+location: Kathmandu, Nepal 🇳🇵
+role: QA Automation Engineer
+currently_learning: [Appium, Advanced Selenium Framework]
+hobbies: [Breaking apps before users do, Playing Sitar 🎶]
+ask_me_about: [Selenium, Java, TestNG, API Testing]
+contact: angilneupane0118@gmail.com
+fun_fact: I find bugs in software AND peace in music 🎵
+```
 
-### 🔹 Tools & Technologies
-- Git & GitHub  
-- Maven  
-- MySQL  
-- Agile / Scrum Workflow  
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🤖 Automation Testing
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+
+### 🔌 API Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### ⚡ Performance Testing
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### 📋 QA Skills
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-2E86AB?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-A23B72?style=for-the-badge)
+![Bug Tracking](https://img.shields.io/badge/Bug%20Tracking-E84855?style=for-the-badge)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0A9396?style=for-the-badge)
+![POM Framework](https://img.shields.io/badge/POM%20Framework-57CC99?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angiln&show_icons=true&theme=default" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angiln" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=angiln&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c5364&icon_color=2c5364&text_color=ffffff" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=angiln&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c5364&text_color=ffffff" height="165"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angiln&layout=compact" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=angiln&theme=tokyonight&hide_border=true&background=0d1117&stroke=2c5364&ring=2c5364&fire=ff6b6b&currStreakLabel=ffffff" />
+
+</div>
+
+---
+
+## 🎯 What I Do
+
+```
+🔍  Find bugs  →  before your users do
+🧪  Write tests  →  so you can sleep at night  
+⚙️  Build frameworks  →  that scale with your product
+📊  Read reports  →  and make them actually useful
+🎶  Play sitar  →  when the bugs are finally fixed
+```
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/angil-neupane-455431202" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30"/>
-</a>
+<div align="center">
 
-<a href="https://instagram.com/an_gil" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angil-neupane-455431202)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/an_gil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angilneupane0118@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angiln)
 
----
-
-## 🎯 Career Goal
-👉 To become a highly skilled **SDET / QA Automation Engineer** contributing to scalable and reliable software systems.
+</div>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
+
+*"Debug the code. Tune the strings. Repeat."*
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sitar_india.jpg/50px-Sitar_india.jpg" height="45" alt="sitar icon"/> 🎶🐛
+
+</div>
