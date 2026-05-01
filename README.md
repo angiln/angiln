@@ -5,10 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=angiln&label=Profile%20views&color=0e75b6&style=flat" alt="angiln" />
 </p>
 
-- 🔭 I’m currently working on **Automation Test ( Selenium & Java )**
+- 🔭 I am currently working on **Advance Selenium BDD**
 - 🌱 I’m currently learning **Appium, JMeter**
 - 🤝 I’m looking for help with **Appium**
-- 📝 I regularly write articles on [angilneupane.com.np](https://angilneupane.com.np)
 - 💬 Ask me about **Selenium, Java, Automation Testing**
 - 📫 How to reach me **angilneupane0118@gmail.com**
 - 📄 Know about my experiences [angil-neupane-455431202](https://www.linkedin.com/in/angil-neupane-455431202)
@@ -25,45 +24,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
-  </a>
-  <a href="https://testng.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="testng" width="40" height="40" />
-  </a>
-  <a href="https://junit.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="junit" width="40" height="40" />
-  </a>
-  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="jmeter" width="40" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-plain.svg" alt="ms excel" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="insomnia" width="40" height="40" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman api" width="40" height="40" />
-  </a>
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" alt="restful api" width="40" height="40" />
-  </a>
-  <a href="https://allurereport.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="allure report" width="40" height="40" />
-  </a>
-  <a href="https://maven.apache.org/surefire/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="surefire report" width="40" height="40" />
-  </a>
-  <a href="https://testrail.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="testrail" width="40" height="40" />
-  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /></a>&nbsp;
+  <a href="https://testng.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="testng" width="40" height="40" /></a>&nbsp;
+  <a href="https://junit.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="junit" width="40" height="40" /></a>&nbsp;
+  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="jmeter" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-plain.svg" alt="ms excel" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>&nbsp;
+  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="insomnia" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman api" width="40" height="40" /></a>&nbsp;
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" alt="restful api" width="40" height="40" /></a>&nbsp;
+  <a href="https://allurereport.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="allure report" width="40" height="40" /></a>&nbsp;
+  <a href="https://maven.apache.org/surefire/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="surefire report" width="40" height="40" /></a>&nbsp;
+  <a href="https://testrail.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="testrail" width="40" height="40" /></a>
 </p>
 
 <p><strong>Testing Skills:</strong> Test Case Design, Test Execution, Defect Reporting, Regression Testing, Smoke Testing, Functional Testing</p>
