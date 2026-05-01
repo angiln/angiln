@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Angil%20Neupane&fontSize=60&fontColor=e94560&fontAlignY=38&desc=QA%20Engineer%20%7C%20Test%20Craftsman%20%7C%20Sitar%20Soul&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:2d2d2d&height=180&section=header&text=Angil%20Neupane&fontSize=65&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=angiln&label=Profile%20Views&color=e94560&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=angiln&label=Profile%20Views&color=555555&style=flat-square" alt="Profile Views" />
 </div>
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=Finding+bugs+so+you+don't+have+to+🐛;Turning+chaos+into+quality+✅;Debug+the+code.+Tune+the+strings.+🎶)
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=888888&center=true&vCenter=true&width=460&lines=QA+Automation+Engineer+🧪;Bug+Hunter+by+Day+🔍;Sitar+Player+by+Night+🎶;Kathmandu%2C+Nepal+🇳🇵)
 
 </div>
 
@@ -15,19 +15,17 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Angil Neupane
-location: Kathmandu, Nepal 🇳🇵
-role: QA Automation Engineer
-currently_learning: [Appium, Advanced Selenium Framework]
-hobbies: [Breaking apps before users do, Playing Sitar 🎶]
-ask_me_about: [Selenium, Java, TestNG, API Testing]
-contact: angilneupane0118@gmail.com
-fun_fact: I find bugs in software AND peace in music 🎵
+name     : Angil Neupane
+location : Kathmandu, Nepal 🇳🇵
+role     : QA Automation Engineer
+learning : Appium · Advanced Selenium
+hobbies  : Breaking apps · Playing Sitar
+contact  : angilneupane0118@gmail.com
 ```
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -57,7 +55,6 @@ fun_fact: I find bugs in software AND peace in music 🎵
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 📋 QA Skills
@@ -78,11 +75,11 @@ fun_fact: I find bugs in software AND peace in music 🎵
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=angiln&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=angiln&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=angiln&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=angiln&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=angiln&theme=tokyonight&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=ff6b6b&currStreakLabel=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=angiln&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=333333&ring=aaaaaa&fire=ffffff&currStreakLabel=ffffff" />
 
 </div>
 
@@ -93,27 +90,13 @@ fun_fact: I find bugs in software AND peace in music 🎵
 ```
 🔍  Find bugs        →  before your users ever see them
 ⚙️  Build frameworks  →  that scale with your product
-📊  Read reports     →  and turn them into action
-🧠  Think quality    →  at every step of development
+📊  Turn reports     →  into meaningful action
 🎶  Play sitar       →  when the last test finally passes
 ```
 
 ---
 
-## 🎶 Beyond The Code
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Sitar%20Player-Classical%20Music-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Nepal-Kathmandu-red?style=for-the-badge&logo=google-maps&logoColor=white" />
-
-> *"When the last bug is fixed, the sitar speaks."*
-
-</div>
-
----
-
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -128,8 +111,8 @@ fun_fact: I find bugs in software AND peace in music 🎵
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=e94560&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,50:1a1a1a,100:0d0d0d&height=100&section=footer&animation=fadeIn"/>
 
-*"Debug the code. Tune the strings. Repeat."* 🎶🐛
+*"Debug the code. Tune the strings. Repeat."*
 
 </div>
